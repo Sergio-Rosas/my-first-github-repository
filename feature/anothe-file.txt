@@ -1,1 +1,3 @@
-Junt another file
+Just another file
+
+Changes in the local repository
